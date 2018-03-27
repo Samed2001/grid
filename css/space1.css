@@ -6,7 +6,7 @@
 body {
 	background-image: url("grfx/bg.png");
 	font-family: sans-serif;
-	width: 578px;
+	width: 629px;
 	margin: 0 auto;
 }
 
@@ -29,6 +29,7 @@ h1{
 	margin-bottom: 28px;
 	padding-top: 20px;
 	padding-left: 19px;
+	font-weight: 800;
 }
 
 h2 {
@@ -40,6 +41,7 @@ h2 {
 	padding-left: 19px;
 	padding-bottom: 6px;
 	margin-bottom: 9px;
+	font-weight: 800;
 }
 
 p{
